@@ -1,0 +1,44 @@
+.page {
+  margin: 0px 50px;
+}
+
+.content {
+  margin-top: 1px;
+
+  height: 85px;
+  width: 1600px;
+  font-size: 14px;
+}
+.navbar {
+  text-align: center;
+  background-color: #eeeeee;
+  padding: 8px;
+}
+.aLinkcenter {
+  text-align: center;
+  padding-top: 5px;
+  /* line-height: 50px;  -> satırlar arasında boşluk */
+}
+
+.boxspace {
+  margin: 1px 1px 0px;
+}
+.box1 {
+  background-color: #7ee5da;
+  height: 75px;
+  width: 477px;
+  float: left;
+}
+.box2 {
+  background-color: #70ccc2;
+  height: 75px;
+  width: 477px;
+  float: left;
+}
+.box3 {
+  background-color: #62b3aa;
+  height: 75px;
+  width: 477px;
+  float: left;
+  font-size: 13px;
+}
